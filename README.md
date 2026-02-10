@@ -25,9 +25,7 @@ The analyses are based on EEG recordings and behavioral data collected during an
 
 The EEG and behavioral data used in this study are publicly available on Mendeley Data:
 
-> **EEG and Behavioral Data from a Perceptual Decision-Making Task with Confidence Ratings**
-
-(Insert DOI here once available)
+https://doi.org/10.17632/s363d72hwg.1
 
 ## Requirements
 
